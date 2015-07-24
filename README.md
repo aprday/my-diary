@@ -44,6 +44,6 @@ Things to keep an eye on and some notes.
 
 #### [Jul.](2015/07)
 
-START TO STUDY JS
-开始看js的原生代码了！！！
+* START TO STUDY JS
+* 开始看js的原生代码了！！！
 # my-diary
