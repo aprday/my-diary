@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # My Tech Diary
 Things to keep an eye on and some notes.
 
@@ -42,6 +41,9 @@ Things to keep an eye on and some notes.
 * WebAssembly
 * Selenium
 * Web Workers, Web Audio API
-=======
+
+#### [Jul.](2015/07)
+
+START TO STUDY JS
+开始看js的原生代码了！！！
 # my-diary
->>>>>>> c5a24f762ba6acbf29a5a76a78cb0d0dc1a8f508
