@@ -2,6 +2,7 @@
   "comment": "http://github.com/flushbeer/diary",
   "diary": [
     {
+<<<<<<< HEAD
       "name": "",
       "disc": "",
       "url": "2015-08-22.md",
@@ -435,6 +436,64 @@
       "type": "project",
       "date": "2015-11-14",
       "id": 0
+=======
+      "name": "程毅南",
+      "disc": "cheng-yi-nan",
+      "url": "2015-07-21.md",
+      "type": "美国心理学和经济学本科毕业。强推《知识分子与社会》",
+      "date": "2015-07-25",
+       "id": 0
+    },
+    {
+      "name": "程毅南",
+      "disc": "cheng-yi-nan",
+      "url": "2015-07-21-blog3.0.md",
+      "type": "美国心理学和经济学本科毕业。强推《知识分子与社会》",
+      "date": "2015-07-26",
+       "id": 0
+    },
+    {
+      "name": "程毅南",
+      "disc": "cheng-yi-nan",
+      "url": "2015-07-21-blog3.0.md",
+      "type": "美国心理学和经济学本科毕业。强推《知识分子与社会》",
+      "date": "2015-07-27",
+       "id": 0
+    },
+    {
+      "name": "程毅南",
+      "disc": "cheng-yi-nan",
+      "url": "2015-07-21-blog3.0.md",
+      "type": "美国心理学和经济学本科毕业。强推《知识分子与社会》",
+      "date": "2015-07-28",
+       "id": 0
+    },
+    {
+      "name": "程毅南",
+      "disc": "cheng-yi-nan",
+      "url": "2015-07-21-blog3.0.md",
+      "type": "美国心理学和经济学本科毕业。强推《知识分子与社会》",
+      "date": "2015-07-29",
+       "id": 0
+    }
+  ],
+  "recommended": [
+   {
+      "name": "1",
+      "disc": "cheng-yi-nan",
+      "url": "2015-07-21-blog3.0.md",
+      "type": "美国心理学和经济学本科毕业。强推《知识分子与社会》",
+      "date": "",
+       "id": 0
+    },
+    {
+      "name": "2",
+      "disc": "cheng-yi-nan",
+      "url": "2015-07-21-blog3.0.md",
+      "type": "美国心理学和经济学本科毕业。强推《知识分子与社会》",
+      "date": "",
+       "id": 0
+>>>>>>> c16ad81f0f342b7c8bd8b3ba455d671a480abd35
     }
   ]
 }
