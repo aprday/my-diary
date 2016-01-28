@@ -401,6 +401,14 @@
       "type": "project",
       "date": "2015-11-14",
       "id": 0
+    },
+    {
+      "name": "vue resource",
+      "disc": "",
+      "url": "2015-11-30.md",
+      "type": "project",
+      "date": "2015-11-30",
+      "id": 0
     }
   ],
   "recommended": [
