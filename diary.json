@@ -2,17 +2,12 @@
   "comment": "http://github.com/flushbeer/diary",
   "data": [
     {
-<<<<<<< HEAD
       "id": 2015,
       "url": "./2015/data.json"
     },
     {
       "id": 2016,
       "url": "./2016/data.json"
-=======
-      "id": 0,
-      "url": "./2015/data.json"
->>>>>>> f7034aabcd5a0b11b488e8a29f8e7252d83c38e2
     }
   ]
 }
